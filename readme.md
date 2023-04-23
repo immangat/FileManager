@@ -19,5 +19,3 @@ Optional Features:
 2. Add support for file compression and decompression.
 3. Implement a search function that allows the user to search for files by name or content.
 4. Add support for file permissions and access control.
-
-Good luck with your project!
