@@ -1,5 +1,3 @@
-Sure, here's a project idea for C programming:
-
 Project Title: Simple File Manager
 
 Project Description:
